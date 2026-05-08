@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "title": "iPhone 15 Pro 256GB",
+    "description": "The most powerful iPhone with the A17 Pro chip, a 48 MP camera, and a titanium body. Supports USB-C and the Action Button.",
+    "price": 42999,
+    "quantity": 15,
+    "imageUrl": "/images/iPhone15Pro256GB.jpg",
+    "categoryId": "1-1"
+  },
+  {
+    "id": "2",
+    "title": "Samsung Galaxy S24 Ultra",
+    "description": "Samsung’s flagship smartphone with a built-in S Pen stylus, a 200 MP camera, and Galaxy AI artificial intelligence.",
+    "price": 38999,
+    "quantity": 8,
+    "imageUrl": "/images/SamsungGalaxyS24Ultra.jpg",
+    "categoryId": "1-2"
+  },
+  {
+    "id": "3",
+    "title": "Xiaomi 14 Pro",
+    "description": "A powerful Xiaomi flagship with a Leica camera, 120W charging, and a Snapdragon 8 Gen 3 processor.",
+    "price": 24999,
+    "quantity": 20,
+    "imageUrl": "/images/Xiaomi14Pro.jpg",
+    "categoryId": "1-3"
+  },
+  {
+    "id": "4",
+    "title": "iPhone 14 128GB",
+    "description": "iPhone 14 with the A15 Bionic chip, an improved camera system, and Emergency SOS via satellite.",
+    "price": 29999,
+    "quantity": 5,
+    "imageUrl": "/images/iPhone14128GB.jpg",
+    "categoryId": "1-1"
+  },
+  {
+    "id": "5",
+    "title": "MacBook Pro 14 M3",
+    "description": "MacBook Pro with the M3 chip, a Liquid Retina XDR display, and up to 18 hours of battery life.",
+    "price": 89999,
+    "quantity": 3,
+    "imageUrl": "/images/MacBookPro14M3.jpg",
+    "categoryId": "2-3"
+  },
+  {
+    "id": "6",
+    "title": "ASUS ROG Strix G16",
+    "description": "Gaming laptop with an RTX 4070, Intel Core i9 processor, and a 165Hz display.",
+    "price": 54999,
+    "quantity": 6,
+    "imageUrl": "/images/ASUSROGStrixG16.jpg",
+    "categoryId": "2-1"
+  },
+  {
+    "id": "7",
+    "title": "Lenovo ThinkPad X1",
+    "description": "Business laptop with MIL-SPEC protection, a TrackPoint keyboard, and a 15-hour battery life.",
+    "price": 45999,
+    "quantity": 4,
+    "imageUrl": "/images/LenovoThinkPadX1.jpg",
+    "categoryId": "2-2"
+  },
+  {
+    "id": "8",
+    "title": "Samsung QLED 55\"",
+    "description": "Smart TV with QLED technology, a Neo Quantum processor, and Tizen OS support.",
+    "price": 32999,
+    "quantity": 10,
+    "imageUrl": "/images/SamsungQLED55.jpg",
+    "categoryId": "3-1"
+  },
+  {
+    "id": "9",
+    "title": "LG OLED 65\" 4K",
+    "description": "OLED TV with perfect black color, Dolby Vision support, and webOS.",
+    "price": 67999,
+    "quantity": 2,
+    "imageUrl": "/images/LGOLED654K.jpg",
+    "categoryId": "3-2"
+  },
+  {
+    "id": "10",
+    "title": "Sony WH-1000XM5",
+    "description": "Wireless headphones with best-in-class noise cancellation, 30 hours of battery life, and fast charging.",
+    "price": 12999,
+    "quantity": 12,
+    "imageUrl": "/images/SonyWH-1000XM5.jpg",
+    "categoryId": "4-1"
+  },
+  {
+    "id": "11",
+    "title": "Apple iPad Pro 12.9\"",
+    "description": "iPad Pro with the M2 chip, a Liquid Retina XDR display, and Apple Pencil 2 support.",
+    "price": 39999,
+    "quantity": 7,
+    "imageUrl": "/images/AppleiPadPro129.jpg",
+    "categoryId": "5-1"
+  },
+  {
+    "id": "12",
+    "title": "PlayStation 5",
+    "description": "Sony gaming console with an 825GB SSD, 4K/120fps support, and a DualSense controller.",
+    "price": 19999,
+    "quantity": 9,
+    "imageUrl": "/images/PlayStation5.jpg",
+    "categoryId": "7-1"
+  },
+  {
+    "id": "13",
+    "title": "Xbox Series X",
+    "description": "The most powerful Xbox console with a 1TB SSD, 4K/120fps support, and Game Pass.",
+    "price": 18999,
+    "quantity": 11,
+    "imageUrl": "/images/XboxSeriesX.jpg",
+    "categoryId": "7-2"
+  },
+  {
+    "id": "14",
+    "title": "Nintendo Switch OLED",
+    "description": "Nintendo gaming console with a 7-inch OLED display, a stand, and wired network support.",
+    "price": 12999,
+    "quantity": 14,
+    "imageUrl": "/images/NintendoSwitchOLED.jpg",
+    "categoryId": "7-3"
+  }
+]

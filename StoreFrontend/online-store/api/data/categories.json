@@ -1,0 +1,85 @@
+[
+  {
+    "id": "1",
+    "name": "Smartphones",
+    "parentCategoryId": null,
+    "icon": "smartphone",
+    "subCategories": [
+      { "id": "1-1", "name": "Apple iPhone", "parentCategoryId": "1" },
+      { "id": "1-2", "name": "Samsung", "parentCategoryId": "1" },
+      { "id": "1-3", "name": "Xiaomi", "parentCategoryId": "1" }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Laptops",
+    "parentCategoryId": null,
+    "icon": "laptop",
+    "subCategories": [
+      { "id": "2-1", "name": "Gaming", "parentCategoryId": "2" },
+      { "id": "2-2", "name": "Office", "parentCategoryId": "2" },
+      { "id": "2-3", "name": "MacBook", "parentCategoryId": "2" }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Televisions",
+    "parentCategoryId": null,
+    "icon": "tv",
+    "subCategories": [
+      { "id": "3-1", "name": "Smart TV", "parentCategoryId": "3" },
+      { "id": "3-2", "name": "4K Ultra HD", "parentCategoryId": "3" }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Headphones",
+    "parentCategoryId": null,
+    "icon": "headphones",
+    "subCategories": [
+      { "id": "4-1", "name": "Wireless", "parentCategoryId": "4" },
+      { "id": "4-2", "name": "Full-size", "parentCategoryId": "4" }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Tablets",
+    "parentCategoryId": null,
+    "icon": "tablet",
+    "subCategories": [
+      { "id": "5-1", "name": "iPad", "parentCategoryId": "5" },
+      { "id": "5-2", "name": "Android", "parentCategoryId": "5" }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Cameras",
+    "parentCategoryId": null,
+    "icon": "camera",
+    "subCategories": [
+      { "id": "6-1", "name": "DSLR", "parentCategoryId": "6" },
+      { "id": "6-2", "name": "Mirrorless", "parentCategoryId": "6" }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Gaming Consoles",
+    "parentCategoryId": null,
+    "icon": "gamepad",
+    "subCategories": [
+      { "id": "7-1", "name": "PlayStation", "parentCategoryId": "7" },
+      { "id": "7-2", "name": "Xbox", "parentCategoryId": "7" },
+      { "id": "7-3", "name": "Nintendo", "parentCategoryId": "7" }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Household Appliances",
+    "parentCategoryId": null,
+    "icon": "appliances",
+    "subCategories": [
+      { "id": "8-1", "name": "Refrigerators", "parentCategoryId": "8" },
+      { "id": "8-2", "name": "Washing Machines", "parentCategoryId": "8" }
+    ]
+  }
+]
